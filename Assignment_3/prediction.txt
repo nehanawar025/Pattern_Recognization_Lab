@@ -1,0 +1,54 @@
+Test Point: 3, 7
+Distance : 9   Class : 1
+Distance : 9   Class : 2
+Distance : 10   Class : 1
+Predicted Class 1
+
+Test Point: 7, 7
+Distance : 0   Class : 1
+Distance : 1   Class : 1
+Distance : 1   Class : 1
+Predicted Class 1
+
+Test Point: 4, 3
+Distance : 0   Class : 2
+Distance : 1   Class : 2
+Distance : 1   Class : 2
+Predicted Class 2
+
+Test Point: 2, 8
+Distance : 17   Class : 1
+Distance : 17   Class : 2
+Distance : 17   Class : 2
+Predicted Class 2
+
+Test Point: 3, 5
+Distance : 1   Class : 2
+Distance : 2   Class : 2
+Distance : 4   Class : 2
+Predicted Class 2
+
+Test Point: 1, 2
+Distance : 2   Class : 2
+Distance : 4   Class : 2
+Distance : 4   Class : 2
+Predicted Class 2
+
+Test Point: 4, 8
+Distance : 5   Class : 1
+Distance : 8   Class : 1
+Distance : 10   Class : 1
+Predicted Class 1
+
+Test Point: 8, 3
+Distance : 2   Class : 1
+Distance : 5   Class : 1
+Distance : 5   Class : 1
+Predicted Class 1
+
+Test Point: 8, 4
+Distance : 1   Class : 1
+Distance : 2   Class : 1
+Distance : 4   Class : 1
+Predicted Class 1
+
